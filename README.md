@@ -1,7 +1,7 @@
 # ContainerNumber-OCR
 Detection and Recognition Container number.  
-Detection: Pixel_link + MobileNet_v2
-Recognition: LSTM
+Detection: Pixel_link + MobileNet_v2  
+Recognition: LSTM  
 Speed: RTX 2080Ti 200ms/image(1920*1080)  
   
  __Pretrained model__   
