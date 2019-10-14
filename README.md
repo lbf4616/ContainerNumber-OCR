@@ -4,12 +4,13 @@ Detection and Recognition Container number.
  __Recognition:__  LSTM  
  __Speed:__  RTX 2080Ti 200ms/image(1920*1080)  
  
+![Sample](https://github.com/lbf4616/ContainerNumber-OCR/blob/master/Sample.png)
+ 
 ## Pretrained model
 Including Pb models and ckpt  
 [Google Drive](https://drive.google.com/open?id=18IGl5jOsUX4S6fKLHlw41JXEn4RRxIIF)  
 
-## Sample
-![Sample](https://github.com/lbf4616/ContainerNumber-OCR/blob/master/Sample.png)
+
 
 ## Convert to Openvino Model
 ```
